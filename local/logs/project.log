@@ -1,0 +1,56 @@
+2018-07-26T08:46:24.059Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-26T08:46:24.062Z - normal: checking language setting...
+2018-07-26T08:46:24.063Z - normal: Language: zh
+2018-07-26T08:46:24.854Z - success: protocol editor-framework registered
+2018-07-26T08:46:24.854Z - success: protocol app registered
+2018-07-26T08:46:24.854Z - success: protocol theme registered
+2018-07-26T08:46:24.855Z - success: protocol packages registered
+2018-07-26T08:46:24.855Z - success: protocol unpack registerred
+2018-07-26T08:46:24.855Z - success: protocol disable-commonjs registerred
+2018-07-26T08:46:25.226Z - normal: connected!
+2018-07-26T08:46:25.229Z - normal: Check project /Users/jsma/kun
+2018-07-26T08:46:25.231Z - normal: Initializing Cocos2d
+2018-07-26T08:46:25.442Z - warn: [20406]授权客户端不存在。
+2018-07-26T08:46:25.451Z - normal: Initializing Asset Database
+2018-07-26T08:46:25.483Z - success: protocol uuid registerred
+2018-07-26T08:46:25.483Z - success: protocol db registerred
+2018-07-26T08:46:25.483Z - success: protocol thumbnail registerred
+2018-07-26T08:46:25.484Z - normal: Loading editor/builtin packages
+2018-07-26T08:46:25.503Z - success: anysdk loaded
+2018-07-26T08:46:25.625Z - success: assets loaded
+2018-07-26T08:46:25.629Z - success: builder loaded
+2018-07-26T08:46:25.632Z - success: cocos-analytics loaded
+2018-07-26T08:46:25.636Z - success: console loaded
+2018-07-26T08:46:25.669Z - success: fb-instant-games loaded
+2018-07-26T08:46:25.674Z - success: hierarchy loaded
+2018-07-26T08:46:25.680Z - success: inspector loaded
+2018-07-26T08:46:25.681Z - success: keystore loaded
+2018-07-26T08:46:25.685Z - success: node-library loaded
+2018-07-26T08:46:25.687Z - success: package-asset loaded
+2018-07-26T08:46:25.689Z - success: preferences loaded
+2018-07-26T08:46:25.692Z - success: project-exporter loaded
+2018-07-26T08:46:25.708Z - success: project-importer loaded
+2018-07-26T08:46:25.711Z - success: project-settings loaded
+2018-07-26T08:46:25.716Z - success: ui-kit loaded
+2018-07-26T08:46:25.721Z - success: ui-grid loaded
+2018-07-26T08:46:25.726Z - success: scene loaded
+2018-07-26T08:46:25.728Z - success: sprite-editor loaded
+2018-07-26T08:46:25.732Z - success: store loaded
+2018-07-26T08:46:25.738Z - success: timeline loaded
+2018-07-26T08:46:25.739Z - normal: Loading builtin packages
+2018-07-26T08:46:25.743Z - success: asset-db-debugger loaded
+2018-07-26T08:46:25.744Z - success: color-picker loaded
+2018-07-26T08:46:25.748Z - success: package-manager loaded
+2018-07-26T08:46:25.749Z - success: qqplay-adapter loaded
+2018-07-26T08:46:25.755Z - success: sdkbox loaded
+2018-07-26T08:46:25.760Z - success: tester loaded
+2018-07-26T08:46:25.764Z - success: ui-kit-preview-extra loaded
+2018-07-26T08:46:25.767Z - success: ui-kit-preview loaded
+2018-07-26T08:46:25.771Z - success: ui-tree loaded
+2018-07-26T08:46:25.772Z - success: weapp-adapter loaded
+2018-07-26T08:46:26.824Z - normal: Initializing project /Users/jsma/kun
+2018-07-26T08:46:26.826Z - normal: Loading packages
+2018-07-26T08:46:26.831Z - normal: Watching packages
+2018-07-26T08:46:26.950Z - normal: Run Application
+2018-07-26T08:46:27.398Z - success: preview server running at http://localhost:7456
+2018-07-26T08:46:31.770Z - normal: 1.9.3

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vitamin_top_back6",
+    "texture": "2dcabf81-18ce-4eca-890e-a1a1d0d70806",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      852,
+      1136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      852,
+      1136
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gac_prince_170825",
+    "texture": "d958e8e0-7284-4c11-b3c0-7739fbde87ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      550
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      550
+    ]
+  }
+}
